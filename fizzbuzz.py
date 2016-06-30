@@ -18,7 +18,7 @@ m=1
 
 print("Fizzbuzz counting up to", upper_limit)
 
-while (m!=(upper_limit+1)):
+while (m<=upperlimit):
     if (m%3 == 0 and m%5 == 0):
         print("fizzbuzz")
     elif (m%3 == 0):
